@@ -19,3 +19,9 @@ Open the Files panel (folder icon in the left sidebar).
 Click the Upload icon and select abalone.csv. It should appear in the file list next to sample_data.
 Run everything: Runtime > Run all. You can also run cells one at a time with Shift + Enter.
 
+
+
+## Dataset
+The Abalone dataset used is from the UCI Machine Learning Repository (Nash et al., 1994): https://doi.org/10.24432/C55C7W
+
+Licensed under CC BY 4.0.
